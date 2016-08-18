@@ -4,11 +4,11 @@ Created By: Darien Keyack, for NCRC (http://www.ncrc.org/)
 Last Updated: 8/18/2016
 
 # Instructions
-##Go to https://github.com/keyacd/NCRC-HMDA-Template-Interface, select Clone or Download, then Download ZIP. Once the files are downloaded, unzip them.
-##Go to the CFPB website (http://www.consumerfinance.gov/data-research/hmda/explore) and download the HMDA data you want to use. Do not filter by lender; the program will do that for you later. Apply any and all other filters you want to use. Once your data is downloaded, move it into the folder Template_Interface_v3, in the same folder as the files you downloaded and unzipped.
-##In the automated template files, find the Application file named "Template_Interface_v3" and launch it. Alternatively, you can just click the Template_Interface_v3 - Shortcut.
-##Follow all instructions provided within the program.
-##Once the program is finished filling out the template for you, it will return to the home screen. Be sure to save the completed template, if you want to keep it.
+Go to https://github.com/keyacd/NCRC-HMDA-Template-Interface, select Clone or Download, then Download ZIP. Once the files are downloaded, unzip them.
+Go to the CFPB website (http://www.consumerfinance.gov/data-research/hmda/explore) and download the HMDA data you want to use. Do not filter by lender; the program will do that for you later. Apply any and all other filters you want to use. Once your data is downloaded, move it into the folder Template_Interface_v3, in the same folder as the files you downloaded and unzipped.
+In the automated template files, find the Application file named "Template_Interface_v3" and launch it. Alternatively, you can just click the Template_Interface_v3 - Shortcut.
+Follow all instructions provided within the program.
+Once the program is finished filling out the template for you, it will return to the home screen. Be sure to save the completed template, if you want to keep it.
 
 # Programs used
 Python 3.4.3
