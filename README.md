@@ -1,7 +1,7 @@
 # NCRC HMDA Template Interface (version 4.0)
 - A program that automates the process of filling out the NCRC HMDA Template.
 - *Created By:* Darien Keyack, for [NCRC] (http://www.ncrc.org/).
-- *Last Updated:* 8/18/2016
+- *Last Updated:* 8/19/2016
 
 # Instructions
 - Go to the [github repository] (https://github.com/keyacd/NCRC-HMDA-Template-Interface), select *Clone or Download*, and then *Download ZIP*.
